@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/datasets-cdc-nchs-us-infant-mortality-bw-1915-2013",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "US infant mortality data, by race, from 1915 to 2013, as provided by the Center for Disease Control and Prevention's National Center for Health Statistics.",
   "license": "Apache-2.0",
   "author": {
