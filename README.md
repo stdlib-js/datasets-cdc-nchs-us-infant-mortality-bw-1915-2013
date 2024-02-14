@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dataset from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-cdc-nchs-us-infant-mortality-bw-1915-2013@esm/index.mjs';
+import dataset from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-cdc-nchs-us-infant-mortality-bw-1915-2013@v0.2.0-esm/index.mjs';
 ```
 
 #### dataset()
@@ -80,7 +80,7 @@ var data = dataset();
 <body>
 <script type="module">
 
-import dataset from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-cdc-nchs-us-infant-mortality-bw-1915-2013@esm/index.mjs';
+import dataset from 'https://cdn.jsdelivr.net/gh/stdlib-js/datasets-cdc-nchs-us-infant-mortality-bw-1915-2013@v0.2.0-esm/index.mjs';
 
 // Retrieve the data:
 var data = dataset();
